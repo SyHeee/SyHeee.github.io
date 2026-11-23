@@ -44,7 +44,7 @@ Exploring how language models can reason, plan, and interact with dynamic enviro
 
 ### More publications on [Google Scholar](https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en).
 
-## Selected Research & Engineering {#research-projects}
+## Selected Research & Engineering {#research-engineering}
 
 ### Generative Ads Recommendation Model (GEM)
 
