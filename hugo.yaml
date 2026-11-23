@@ -61,8 +61,8 @@ menu:
       url: /#publications
       weight: 20
     - identifier: research
-      name: Research & Projects
-      url: /#research-projects
+      name: Research & Engineering
+      url: /#research-engineering
       weight: 30
     - identifier: education
       name: Education

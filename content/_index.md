@@ -9,7 +9,9 @@ focus: "Representation Learning · Recommendation Systems · AI Agents"
 
 ## About Me
 
-I'm interested in how AI systems learn from experience, from long histories of user behavior to interactions with dynamic environments. At Meta, I work on representation learning and scalable recommendation models.
+I'm interested in how AI systems learn from experience, from long histories of user behavior to interactions with dynamic environments. 
+
+At Meta, I work on representation learning and scalable recommendation models.
 
 
 ## Research Interests
