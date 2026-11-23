@@ -1,0 +1,18 @@
+{{- define "main" }}
+<article class="post-single research-home">
+  <header class="post-header home-intro">
+    {{- with .Params.profileImage }}
+    <img class="home-portrait" src="{{ . | relURL }}" alt="Portrait of Shiying (Sylvia) He" width="160" height="160">
+    {{- end }}
+    <div class="home-intro-text">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <p class="home-headline">{{ .Params.headline }}</p>
+    <p class="home-focus">{{ .Params.focus }}</p>
+    <nav class="home-socials" aria-label="Professional profiles">
+      {{- partial "social_icons.html" (dict "align" "left") }}
+    </nav>
+    </div>
+  </header>
+  <div class="post-content">{{ .Content }}</div>
+</article>
+{{- end }}

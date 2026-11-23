@@ -1,0 +1,83 @@
+baseURL: https://syheee.github.io/
+locale: en-us
+title: Shiying He
+theme: PaperMod
+
+enableRobotsTXT: true
+enableEmoji: true
+
+pagination:
+  pagerSize: 10
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # required for search
+
+params:
+  env: production
+  description: "Shiying (Sylvia) He — Software Engineer at Meta with a research focus on AI and large-scale recommender systems."
+  keywords: [AI research, representation learning, recommender systems, sequential modeling, efficient AI, LLM agents]
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  ShowRssButtonInSectionTermList: true
+  hideFooter: false
+  mainSections:
+    - posts
+    - writing
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/shiying-he-0305/" 
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en"     
+    - name: github
+      url: "https://github.com/SyHeee"
+    - name: rss
+      url: "/index.xml"
+
+  fuseOpts: # search tuning
+    isCaseSensitive: false
+    shouldSort: true
+    minMatchCharLength: 2
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /#about-me
+      weight: 10
+    - identifier: publications
+      name: Selected Publications
+      url: /#publications
+      weight: 20
+    - identifier: research
+      name: Research & Projects
+      url: /#research-projects
+      weight: 30
+    - identifier: experience
+      name: Experience
+      url: /#experience
+      weight: 40
+    - identifier: writing
+      name: Writing
+      url: /writing/
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # allow raw HTML in markdown
+  highlight:
+    noClasses: false
+    style: monokai

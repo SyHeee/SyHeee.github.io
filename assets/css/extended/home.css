@@ -1,0 +1,36 @@
+.research-home .post-header { margin-bottom: 2rem; }
+.research-home .post-description { color: var(--secondary); margin: 0.75rem 0; }
+.research-home .post-content h2 { margin-top: 2.5rem; scroll-margin-top: 2rem; }
+.research-home .post-content h2:first-child { margin-top: 0; }
+
+/* Make links in page and post text recognizable without relying on color. */
+.post-content a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.18em;
+  box-shadow: none;
+}
+.post-content a:hover,
+.post-content a:focus-visible {
+  text-decoration-thickness: 0.12em;
+}
+
+.research-home .home-headline { font-size: 1.25rem; font-weight: 600; margin: 0.75rem 0; }
+.research-home .home-focus { color: var(--secondary); font-style: italic; line-height: 1.7; }
+.research-home .post-content h2 { padding-top: 0.75rem; border-top: 1px solid var(--border); }
+.research-home .post-content h2:first-child { border-top: 0; padding-top: 0; }
+.research-home .post-content h3 { font-size: 1.15rem; line-height: 1.5; margin-top: 1.75rem; }
+@media (max-width: 600px) {
+  .research-home .post-title { font-size: 2rem; }
+  .research-home .home-headline { font-size: 1.1rem; }
+}
+
+.research-home .home-intro { display: flex; align-items: center; gap: 1.75rem; }
+.research-home .home-intro-text { min-width: 0; }
+.research-home .home-portrait { width: 160px; height: 160px; flex: 0 0 160px; object-fit: cover; border-radius: 50%; }
+.research-home .home-socials { margin-top: 0.75rem; }
+.research-home .home-socials a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; border-radius: 3px; }
+@media (max-width: 600px) {
+  .research-home .home-intro { flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+  .research-home .home-portrait { width: 128px; height: 128px; flex-basis: 128px; }
+}
