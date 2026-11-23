@@ -70,7 +70,7 @@ menu:
       weight: 40
     - identifier: writing
       name: Writing
-      url: /writing/
+      url: /#writing
       weight: 50
 
 markup:

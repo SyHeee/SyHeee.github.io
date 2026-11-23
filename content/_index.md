@@ -27,45 +27,39 @@ Exploring how language models can reason, plan, and interact with dynamic enviro
 
 ## Selected Publications {#publications}
 
-### VisualTreeSearch: Understanding Web Agent Test-Time Scaling
+* ### VisualTreeSearch: Understanding Web Agent Test-Time Scaling
+  Danqing Zhang, Yaoyao Qian, **Shiying He**, Yuanli Wang, Jingyi Ni, Junyu Cao<br>
+  *ECML-PKDD 2025, Demo Track*
 
-Danqing Zhang, Yaoyao Qian, **Shiying He**, Yuanli Wang, Jingyi Ni, Junyu Cao
+  [Paper](https://mlanthology.org/ecmlpkdd/2025/zhang2025ecmlpkdd-visualtreesearch/) · [Code](https://github.com/PathOnAIOrg/VisualTreeSearch-Demo)
 
-*ECML-PKDD 2025, Demo Track*
+* ### LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications
+  Danqing Zhang, Balaji Rama, Jingyi Ni, **Shiying He**, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao<br>
+  *NAACL 2025, System Demonstrations*
 
-An interactive system for visualizing web-agent tree search and exploring test-time search behavior.
+  [Paper](https://aclanthology.org/2025.naacl-demo.36/) · [Code](https://github.com/PathOnAI/LiteWebAgent)
 
-[Paper](https://mlanthology.org/ecmlpkdd/2025/zhang2025ecmlpkdd-visualtreesearch/) · [Code](https://github.com/PathOnAIOrg/VisualTreeSearch-Demo)
+### More publications on [Google Scholar](https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en).
 
-### LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications
+## Selected Research & Engineering {#research-projects}
 
-Danqing Zhang, Balaji Rama, Jingyi Ni, **Shiying He**, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao
+### Generative Ads Recommendation Model (GEM)
 
-*NAACL 2025, System Demonstrations*
+*Foundation Models · Sequential Modeling · Scalable Recommendation*
 
-An open-source framework for building and studying vision-language-model-based web agents, supporting browser interaction and extensible research on planning, memory, and search.
+* Core contributor to user-sequence modeling for GEM, Meta's LLM-scale ads recommendation foundation model. 
+* Led long-context sequence scaling efforts and analyzed model performance–compute trade-offs.
 
-[Paper](https://aclanthology.org/2025.naacl-demo.36/) · [Code](https://github.com/PathOnAI/LiteWebAgent)
-
-[More publications on Google Scholar](https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en).
-
-## Selected Research & Projects {#research-projects}
+[Engineering Blog](https://engineering.fb.com/2025/11/10/ml-applications/metas-generative-ads-model-gem-the-central-brain-accelerating-ads-recommendation-ai-innovation/)
 
 ### Monte Carlo Tree Search for LLM-Based Web Agents
 
 *LLM Agents · Tree Search · Planning*
 
-Integrated Monte Carlo Tree Search (MCTS) with the SeeAct web-agent framework to study how search and prompting strategies affect agent planning and execution. Evaluated different configurations on the WebShop benchmark, exploring the tradeoff between exploration and exploitation.
+* Integrated Monte Carlo Tree Search (MCTS) with the SeeAct web-agent framework to study how search and prompting strategies affect agent planning and execution. 
+* Evaluated different configurations on the WebShop benchmark, exploring the tradeoff between exploration and exploitation.
 
 [Code](https://github.com/SyHeee/cs294f24-ai-agents)
-
-### NLP for Document Understanding
-
-*Natural Language Processing · Language Models · Text Classification*
-
-Explored open-source language models for text classification and document understanding, using the MIND news dataset as a reference.
-
-[Code](https://github.com/SyHeee/document-understanding)
 
 ## Education
 
@@ -79,13 +73,11 @@ M.S. & B.S. in Applied Mathematics, 2010–2017
 
 ## Writing
 
-A space for things I'm learning, building, and thinking about—from machine learning and AI research to books, personal essays, and occasional fiction.
+A space for things I'm learning, building, and thinking about—from AI research to books, personal essays, and occasional fiction.
 
-<!-- Browse [technical notes](/posts/) and [essays and other writing](/writing/), or [subscribe via RSS](/index.xml). -->
+Browse [all writing](/writing/), or [subscribe via RSS](/index.xml).
 
 ## Recent Readings
-
-A few books I've been reading lately:
 
 - *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas R. Hofstadter
 - *A Thousand Brains* — Jeff Hawkins
@@ -93,7 +85,6 @@ A few books I've been reading lately:
 - *Taipei Story* — R. F. Kuang
 
 ---
+*The views expressed here are my own and do not represent those of my employers.* 
 
-*The views expressed here are my own and do not represent those of my employers.*
-
-Last updated: Nov 2026
+(Last updated: Nov 2026)
