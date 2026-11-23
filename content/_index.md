@@ -3,7 +3,7 @@ title: "Shiying (Sylvia) He"
 description: "AI researcher and machine learning engineer. Software Engineer at Meta with a research focus on AI and large-scale recommender systems."
 headline: "AI Researcher & Software Engineer"
 profileImage: "/images/profile.jpg"
-focus: "Representation Learning · Recommender Systems · Efficient ML · AI Agents"
+focus: "Representation Learning · Recommendation Systems · AI Agents"
 ---
 
 ## About Me
@@ -12,8 +12,6 @@ I'm interested in how AI systems learn from experience, from long histories of u
 
 
 ## Research Interests
-
-My current research interests include:
 
 * ### Representation Learning & Sequential Modeling
 
@@ -37,7 +35,7 @@ Danqing Zhang, Yaoyao Qian, **Shiying He**, Yuanli Wang, Jingyi Ni, Junyu Cao
 
 An interactive system for visualizing web-agent tree search and exploring test-time search behavior.
 
-[Paper](https://mlanthology.org/ecmlpkdd/2025/zhang2025ecmlpkdd-visualtreesearch/?utm_source=chatgpt.com) · [Code](https://github.com/PathOnAIOrg/VisualTreeSearch-Demo)
+[Paper](https://mlanthology.org/ecmlpkdd/2025/zhang2025ecmlpkdd-visualtreesearch/) · [Code](https://github.com/PathOnAIOrg/VisualTreeSearch-Demo)
 
 ### LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications
 
@@ -69,38 +67,6 @@ Explored open-source language models for text classification and document unders
 
 [Code](https://github.com/SyHeee/document-understanding)
 
-## Experience
-
-### Meta — Software Engineer
-
-*2025–Present*
-
-Research and development of large-scale recommendation models, focusing on sequential modeling, user representation learning, and efficient model architectures.
-
-### Amazon — Senior Applied Scientist
-
-*2025*
-
-Worked on LLM-powered advertising assistants, including reasoning, agent architectures, and scalable AI systems.
-
-### TikTok — Senior Machine Learning Engineer
-
-*2024—2025*
-
-Developed machine learning models for advertising targeting, including large-scale user modeling, debiasing, and responsible AI.
-
-### Microsoft — Applied Scientist
-
-*2021—2024*
-
-Led machine learning initiatives in news understanding and recommendation, focusing on multilingual NLP, classification, and ranking.
-
-### PayPal — Machine Learning Scientist (Tech Lead)
-
-*2018–2021*
-
-Developed deep learning models for risk detection and customer engagement, including attention-based sequential modeling.
-
 ## Education
 
 ### University of California, Berkeley
@@ -113,11 +79,13 @@ M.S. & B.S. in Applied Mathematics, 2010–2017
 
 ## Writing
 
-I occasionally write about AI, research ideas, AI systems, and things I find interesting beyond technology.
+A space for things I'm learning, building, and thinking about—from machine learning and AI research to books, personal essays, and occasional fiction.
 
-Browse [technical notes](/posts/) and [essays and other writing](/writing/), or [subscribe via RSS](/index.xml).
+<!-- Browse [technical notes](/posts/) and [essays and other writing](/writing/), or [subscribe via RSS](/index.xml). -->
 
 ## Recent Readings
+
+A few books I've been reading lately:
 
 - *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas R. Hofstadter
 - *A Thousand Brains* — Jeff Hawkins
@@ -127,3 +95,5 @@ Browse [technical notes](/posts/) and [essays and other writing](/writing/), or 
 ---
 
 *The views expressed here are my own and do not represent those of my employers.*
+
+Last updated: Nov 2026

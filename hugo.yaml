@@ -32,7 +32,6 @@ params:
   ShowRssButtonInSectionTermList: true
   hideFooter: false
   mainSections:
-    - posts
     - writing
 
   socialIcons:
@@ -65,9 +64,9 @@ menu:
       name: Research & Projects
       url: /#research-projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /#experience
+    - identifier: education
+      name: Education
+      url: /#education
       weight: 40
     - identifier: writing
       name: Writing

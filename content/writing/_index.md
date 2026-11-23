@@ -1,6 +1,4 @@
 ---
 title: "Writing"
-description: "Technical notes, essays, and occasional fiction."
+description: "Learning notes on ML and AI research, essays, and occasional fiction."
 ---
-
-Browse [technical notes](/posts/) on AI and recommender systems. Essays and occasional fiction will appear here as they are added.
