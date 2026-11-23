@@ -1,6 +1,7 @@
 ---
 title: "Shiying (Sylvia) He"
-description: "AI researcher and machine learning engineer. Software Engineer at Meta with a research focus on AI and large-scale recommender systems."
+chineseName: "何士莹"
+description: "AI researcher and engineer. Software Engineer at Meta with a research focus on AI and large-scale recommender systems."
 headline: "AI Researcher & Software Engineer"
 profileImage: "/images/profile.jpg"
 focus: "Representation Learning · Recommendation Systems · AI Agents"

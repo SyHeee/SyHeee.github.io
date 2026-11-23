@@ -6,6 +6,9 @@
     {{- end }}
     <div class="home-intro-text">
     <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Params.chineseName }}
+    <p class="home-chinese-name" lang="zh">{{ . }}</p>
+    {{- end }}
     <p class="home-headline">{{ .Params.headline }}</p>
     <p class="home-focus">{{ .Params.focus }}</p>
     <nav class="home-socials" aria-label="Professional profiles">

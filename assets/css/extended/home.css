@@ -37,3 +37,6 @@
 
 /* indent nested (description) bullets further right */
 .research-home .post-content ul ul { padding-inline-start: 2.5rem; }
+
+/* Chinese name line between name and headline */
+.research-home .home-chinese-name { font-size: 1.3rem; color: var(--secondary); margin: 0.15rem 0 0.35rem; }
