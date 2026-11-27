@@ -43,8 +43,9 @@ Exploring how language models can reason, plan, and interact with dynamic enviro
   [Paper](https://aclanthology.org/2025.naacl-demo.36/) · [Code](https://github.com/PathOnAI/LiteWebAgent)
 
 * ### Block‐sparse compressed sensing with partially known signal support via non‐convex minimisation
-  **Shiying He**, Yao Wang, Jianjun Wang, Zongben Xu
+  **Shiying He**, Yao Wang, Jianjun Wang, Zongben Xu<br>
   *IET Signal Processing 2016*
+  
   [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-spr.2015.0425)
 
 ### More publications on [Google Scholar](https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en).
