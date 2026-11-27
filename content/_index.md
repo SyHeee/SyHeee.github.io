@@ -78,11 +78,11 @@ M.S. & B.S. in Applied Mathematics, 2010–2017
 
 A space for things I'm learning, building, and thinking about—from AI research to books, personal essays, and occasional fiction.
 
-**Now serializing:** [The Butterfly, Chaos and Constants](/blog/butterfly-chaos-constants/) — a sci-fi novel. Start with [Chapter 1](/blog/butterfly-chaos-constants/chapter-01/).
+**Now serializing:** [The Butterfly, Chaos and Constants](/blog/butterfly-chaos-constants/) — a sci-fi novel. 
 
 Latest:
 
-{{< latest-writing n="3" >}}
+{{< latest-writing n="2" >}}
 
 Browse [all posts](/blog/), or [subscribe via RSS](/index.xml).
 
