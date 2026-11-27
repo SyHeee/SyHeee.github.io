@@ -78,9 +78,9 @@ M.S. & B.S. in Applied Mathematics, 2010–2017
 
 A space for things I'm learning, building, and thinking about—from AI research to books, personal essays, and occasional fiction.
 
-**Now serializing:** [The Butterfly, Chaos and Constants](/blog/butterfly-chaos-constants/) — a sci-fi novel. 
+* **Now serializing:** [The Butterfly, Chaos and Constants](/blog/butterfly-chaos-constants/) — a sci-fi novel. 
 
-Latest:
+* **Latest:**
 
 {{< latest-writing n="2" >}}
 
