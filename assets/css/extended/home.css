@@ -40,3 +40,8 @@
 
 /* Chinese name line between name and headline */
 .research-home .home-chinese-name { font-size: 1.3rem; color: var(--secondary); margin: 0.15rem 0 0.35rem; }
+
+/* homepage latest-writing list */
+.research-home .latest-writing { list-style: none; padding-left: 0; margin: 0.5rem 0 0; }
+.research-home .latest-writing li { margin: 0.35rem 0; }
+.research-home .latest-writing .lw-date { color: var(--secondary); font-size: 0.9rem; margin-left: 0.6rem; }

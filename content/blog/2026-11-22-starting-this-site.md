@@ -1,7 +1,8 @@
 ---
 title: "👋 Starting this site"
 date: 2026-11-22
-tags: [""]
+aliases: ["/writing/2026-11-22-starting-this-site/"]
+tags: ["notes"]
 summary: "Hello World"
 ---
 

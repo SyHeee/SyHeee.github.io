@@ -74,11 +74,17 @@ M.Eng. in Electrical Engineering and Computer Sciences, 2018
 
 M.S. & B.S. in Applied Mathematics, 2010–2017
 
-## Writing
+## Blog {#blog}
 
 A space for things I'm learning, building, and thinking about—from AI research to books, personal essays, and occasional fiction.
 
-Browse [all writing](/writing/), or [subscribe via RSS](/index.xml).
+**Now serializing:** [The Butterfly, Chaos and Constants](/blog/butterfly-chaos-constants/) — a sci-fi novel. Start with [Chapter 1](/blog/butterfly-chaos-constants/chapter-01/).
+
+Latest:
+
+{{< latest-writing n="3" >}}
+
+Browse [all posts](/blog/), or [subscribe via RSS](/index.xml).
 
 ## Recent Readings
 

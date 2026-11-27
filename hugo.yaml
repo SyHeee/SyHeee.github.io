@@ -20,6 +20,7 @@ outputs:
 
 params:
   env: production
+  comments: true
   description: "Shiying (Sylvia) He — Software Engineer at Meta with a research focus on AI and large-scale recommender systems."
   keywords: [AI research, representation learning, recommender systems, sequential modeling, efficient AI, LLM agents]
   defaultTheme: auto
@@ -32,7 +33,7 @@ params:
   ShowRssButtonInSectionTermList: true
   hideFooter: false
   mainSections:
-    - writing
+    - blog
 
   socialIcons:
     - name: linkedin
@@ -41,6 +42,9 @@ params:
       url: "https://scholar.google.com/citations?user=hxudLw8AAAAJ&hl=en"     
     - name: github
       url: "https://github.com/SyHeee"
+    - name: blog
+      title: Blog
+      url: "/blog/"
     - name: rss
       url: "/index.xml"
 
@@ -68,9 +72,9 @@ menu:
       name: Education
       url: /#education
       weight: 40
-    - identifier: writing
-      name: Writing
-      url: /#writing
+    - identifier: blog
+      name: Blog
+      url: /#blog
       weight: 50
 
 markup:

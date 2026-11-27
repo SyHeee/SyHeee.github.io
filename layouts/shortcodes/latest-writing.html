@@ -1,0 +1,6 @@
+{{- $n := int (.Get "n" | default 3) -}}
+<ul class="latest-writing">
+  {{- range first $n (sort (where site.RegularPages "Section" "blog") "Date" "desc") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="lw-date">{{ .Date.Format "Jan 2, 2006" }}</span></li>
+  {{- end }}
+</ul>

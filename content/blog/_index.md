@@ -1,4 +1,5 @@
 ---
-title: "Writing"
+title: "Blog"
+aliases: ["/writing/"]
 description: "Learning notes on ML and AI research, essays, and occasional fiction."
 ---
